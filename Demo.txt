@@ -1,3 +1,5 @@
 一開始新增一個段落，示範commit
 在ShowBranch這個分支上新增東西，
 準備進行pull request給master branch
+
+現在在master，新增一點東西，準備示範conflict
