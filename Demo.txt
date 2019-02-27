@@ -2,4 +2,7 @@
 在ShowBranch這個分支上新增東西，
 準備進行pull request給master branch
 
-現在在ShowBranch分支，新增一點其他東西，等一下就可以看到conflict
+
+最後我決定將merge（合併）內容改為：完成衝突解決
+
+
